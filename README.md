@@ -18,7 +18,7 @@ body {
 <br/>
 <h2> What type of game is it?</h2>
   <p> It is a script game. A script game is a game where the events unfold in lines rather in video <br/>
-   It was made solely for the purpose to entertain and allowence for people to change the code to suit thier needs rather<br/> than video games that just chatter with illusions all the time and do not allow antone to tinker with it's systems <p>
+   It was made solely for the purpose to entertain and allowence for people to change the code to suit thier needs rather<br/> than video games that just chatter with illusions all the time and do not allow anyone to tinker with it's systems <p>
 
     
 
