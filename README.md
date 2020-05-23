@@ -17,8 +17,8 @@ body {
 <h1> What is flint? </h1>
 <p>Flint is a game being developed by Code/R. It is an open-source game and anyone can edit, change, modify it. Flint is an adventure game which takes you to zones and areas and asks you questions to survive.</p>
 <br/>
-<h2> how to dowload flint?<h2>
-  <p> to dowload flint  click here <p>
+<h2> how to download flint?</h2>
+  <p> to dowload flint  click here:</p>
   <a href="https://github.com/Code-R-scompanies-technologies/Elytra/releases"  download="https://github.com/Code-R-scompanies-technologies/Elytra/releases"> 
                 <button type="button">Download</button> 
             </a> 
