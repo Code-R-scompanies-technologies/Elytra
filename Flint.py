@@ -3,6 +3,15 @@
 import time
 from random import randrange
 import webbrowser
+from gtts import gTTS
+from playsound import playsound
+
+def speak(sentence):
+    tts = gTTS(sentence)
+    tts.save('hello.mp3')
+    playsound('hello.mp3')
+
+
 
 
 def first_floor():
