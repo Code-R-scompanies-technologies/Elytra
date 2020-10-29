@@ -2,7 +2,7 @@
 ## What is Flint?
 Flint is a game being developed by Code/R. It is an open-source game and anyone can edit, change, modify it. Flint is an adventure game which takes you to zones and areas and asks you questions to survive.
 
- ## Is is a vedio game?
+ ## Is is a video game?
  No  it is a script game! it shows the  game in lines.
  
  ## It is a python code?
